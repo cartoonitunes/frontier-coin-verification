@@ -2,8 +2,8 @@
 
 Proof of source code for two identical Frontier-era Ethereum contracts:
 
-- [`0xFF2947b1851bB16a7C8E71C6a8458D29600F9D6a`](https://ethereumhistory.com/contracts/0xFF2947b1851bB16a7C8E71C6a8458D29600F9D6a) — deployed Sep 21 2015 (block ~117,000 era)
-- [`0x522A493D563B0189c76877382b33F4c8C842922c`](https://ethereumhistory.com/contracts/0x522A493D563B0189c76877382b33F4c8C842922c) — deployed Sep 22 2015
+- [`0xFF2947b1851bB16a7C8E71C6a8458D29600F9D6a`](https://ethereumhistory.com/contract/0xFF2947b1851bB16a7C8E71C6a8458D29600F9D6a) — deployed Sep 21 2015 (block ~117,000 era)
+- [`0x522A493D563B0189c76877382b33F4c8C842922c`](https://ethereumhistory.com/contract/0x522A493D563B0189c76877382b33F4c8C842922c) — deployed Sep 22 2015
 
 Both contracts have **identical runtime bytecode** (1648 bytes). This repo reproduces that bytecode exactly from source.
 
